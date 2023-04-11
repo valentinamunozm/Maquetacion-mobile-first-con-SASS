@@ -1,0 +1,23 @@
+.main-tables-container {
+    display: flex;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.main-exchange-container {
+    &--title {
+        width: 20%;
+        padding-top: 30px;
+    }
+}
+.main-product-detail {
+    section {
+        display: flex;
+        flex-wrap: wrap;
+        width: 930px;
+        margin: 0 auto;
+    }
+}
+.plans-container-slider {
+    justify-content: center;
+}
